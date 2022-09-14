@@ -5,7 +5,7 @@ title="System Information Report"
 
 echo "<html>"
 echo " <head>"
-echo " <title>$title</title>"
+echo " <title>$title for server $HOSTNAME and user $USER</title>"
 echo " </head>"
 echo " <body>"
 echo " $title"
